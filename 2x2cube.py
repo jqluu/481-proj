@@ -250,7 +250,7 @@ class ids:
 cube = RubiksCube2x2()
 cube.displayCube()
 
-cube.apply_multMoves(['R', 'L']) 
+cube.apply_multMoves(['R', 'D']) 
 # cube.apply_multMoves(['R', 'L', 'L', 'L', 'L']) 
 # cube.apply_multMoves(['R', 'D', 'L']) 
 
